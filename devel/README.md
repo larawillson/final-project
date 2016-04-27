@@ -1,3 +1,3 @@
 # Instructions for Running my Project
 
-Replace this text with the instructions your classmates will need to run your project. If your code needs any libraries using `pip` or any other tool, those instructions should be here as well. A complete stranger should be able to follow these instructions, so don't be afraid to include videos, screenshots, diagrams, text, whatever helps!
+This Program is works just like filling out a Madlib in real life. No need to upload any directories. Just go ahead and open the madlibs.py file and run the program. You first need to select the genre (1-4) and then you need to fill in your own words as the program prompts you for certain wordtypes. After you have filled in all the necessary words, the program will tell you the story you helped write.
